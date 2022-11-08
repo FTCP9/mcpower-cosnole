@@ -118,7 +118,7 @@ def debil():
         debil()
 
     if sinput == "authors":
-        print("Console Author:\n\nLooph - OWNER\nBrutalCODE - API\n")
+        print("Console Author:\n\nLooph - OWNER")
         debil()
         
     else:
